@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\common\crypto_bcrypt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\common\crypto_openssl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\common\crypto_25519_donna.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\common\crypto_25519_openssl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\common\crypto_textencode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\common\keypair.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\common\steamid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\clientlib\csteamnetworkingsockets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\clientlib\steamnetworkingsockets_flat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\clientlib\steamnetworkingsockets_connections.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\clientlib\steamnetworkingsockets_lowlevel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\clientlib\steamnetworkingsockets_snp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\clientlib\steamnetworkingsockets_udp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\steamnetworkingsockets_certs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\steamnetworkingsockets_certstore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\steamnetworkingsockets\steamnetworkingsockets_shared.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\tier0\dbg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\tier0\platformtime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\tier1\bitstring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\tier1\netadr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\tier1\utlbuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\tier1\utlmemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\tier1\ipv6text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\vstdlib\strtools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\external\curve25519-donna\curve25519.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\external\curve25519-donna\curve25519_VALVE_sse2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\external\ed25519-donna\ed25519_VALVE.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\external\ed25519-donna\ed25519_VALVE_sse2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\common\opensslwrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\build\src\steamnetworkingsockets_messages_certs.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\build\src\steamnetworkingsockets_messages.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\Dev\ValveSoftware\GameNetworkingSockets\build\src\steamnetworkingsockets_messages_udp.pb.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="G:\Dev\ValveSoftware\GameNetworkingSockets\build\CMakeFiles\f496481c4e0606ce66e75b88a17907ec\steamnetworkingsockets_messages_certs.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\Dev\ValveSoftware\GameNetworkingSockets\build\CMakeFiles\f496481c4e0606ce66e75b88a17907ec\steamnetworkingsockets_messages.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\Dev\ValveSoftware\GameNetworkingSockets\build\CMakeFiles\f496481c4e0606ce66e75b88a17907ec\steamnetworkingsockets_messages_udp.pb.cc.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="G:\Dev\ValveSoftware\GameNetworkingSockets\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6C130D5A-96C6-3DC8-8237-26130957F1E5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A284B738-97E3-3C49-98FA-FC5D8149BFD5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

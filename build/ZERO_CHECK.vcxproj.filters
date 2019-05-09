@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="G:\Dev\ValveSoftware\GameNetworkingSockets\build\CMakeFiles\7eb1c4d2ae4a10dedb5abd683f45568b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6C130D5A-96C6-3DC8-8237-26130957F1E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
